@@ -1,0 +1,4 @@
+1 - if($_POST['staff_password'] === "asdf"){
+    status = A
+    // insert 
+}
